@@ -1,0 +1,2 @@
+Git commands to add configuration
+git config
