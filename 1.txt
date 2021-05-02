@@ -1,2 +1,2 @@
 Git commands to add configuration
-git config
+git config username and email
