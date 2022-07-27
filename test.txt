@@ -5,3 +5,12 @@ git add
 git commit
 git push
 
+
+git merge 
+git pull
+
+git revert
+git revert -abort
+
+
+
